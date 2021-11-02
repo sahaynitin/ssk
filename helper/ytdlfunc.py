@@ -1,6 +1,6 @@
 from __future__ import unicode_literals
 from pyrogram import Client, Filters, StopPropagation, InlineKeyboardButton, InlineKeyboardMarkup
-import youtube_dl
+import yt_dlp
 from utils.util import humanbytes
 import asyncio
 
